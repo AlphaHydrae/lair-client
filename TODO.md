@@ -1,0 +1,2 @@
+- growl notifications (notifies)
+- dotenv configuration
